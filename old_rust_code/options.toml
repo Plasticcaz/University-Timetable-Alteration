@@ -1,0 +1,14 @@
+[strategy]
+name = "genetic"
+
+[genetic]
+# The cap for the runtime of the algorithm:
+generations = 10000
+# The number of candidates that participate in the tournament selection:
+tournament_size = 150 
+# The number of "best" solutions that go onto the next generations:
+elite_number = 100
+# The weight of mutation. 1 in mutation_weight chance of happening:
+mutation_weight = 80
+# The number of candidates generated in each iteration:
+candidates_size = 1000

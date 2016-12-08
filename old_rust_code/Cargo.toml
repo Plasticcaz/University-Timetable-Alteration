@@ -1,0 +1,8 @@
+[package]
+name = "time_table"
+version = "0.1.0"
+authors = ["Zac <plasticcaz@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+toml = "0.1"
