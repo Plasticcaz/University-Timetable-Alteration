@@ -12,4 +12,6 @@ The original attempt was to program this project in a relatively new language ca
 I moved on to use C# instead, because of more advanced tooling, and less strict rules (due to C# using Garbage Collection). This allowed me to write code at a
 much faster rate.
 
+The test data used in development of this project, can be downloaded at: http://tabu.diegm.uniud.it/ctt/index.php?page=instances.
+
 NOTE: Please be aware that the TestApp project currently assumes that it's working directory contains the test_data folder. You may need to manually change the working directory of TestApp to the folder "test_data" is in. "output.log" will also be placed in the working directory as the program runs.
