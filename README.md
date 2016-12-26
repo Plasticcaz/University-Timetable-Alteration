@@ -4,6 +4,8 @@
 
 This is a repository to house work done for my Honours dissertation on the University Timetabling problem.
 
+The dissertation has been included as a pdf file in the repository.
+
 ### How do I get set up? ###
 
 The project is written in C#, and developed using Visual Studio 2015 Community Edition on Windows. You can find the visual studio project in HonoursCS.
